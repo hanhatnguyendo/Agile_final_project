@@ -6,7 +6,6 @@ This project demonstrates the practical application of Agile sprint planning and
 
 The project covers the end-to-end Agile lifecycle - from creating a product backlog and refining it into a sprint plan, to progressing user stories through a mock sprint using GitHub Issues and Project Boards.
 
----
 
 ## Project Scenario
 
@@ -18,7 +17,6 @@ The scope of this project focuses on developing the **back-end product catalog**
 - Hosting the application in a cloud environment  
 - Automating the deployment process
 
----
 
 ## Roles and Responsibilities
 
@@ -28,10 +26,8 @@ This project integrates multiple Agile roles:
 - **Scrum Master**: Creates the sprint milestone and ensures backlog readiness  
 - **Developer**: Executes tasks and simulates sprint activity through issue tracking
 
----
 
 ## Kanban Board Access
 
 To view the project’s progress, visit the **[Projects](../../projects)** tab of this repository and open the **Kanban board**. It contains the full product backlog, sprint backlog, and issue status.
 
----
